@@ -132,5 +132,3 @@ Common regression metrics used:
 * Cross-validation improvements
 * Model deployment (Flask / FastAPI)
 * Experiment tracking (MLflow)
-
-This project is open-source and available under the MIT License.
